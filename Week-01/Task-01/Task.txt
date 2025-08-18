@@ -1,0 +1,17 @@
+🚀 Fellowship Programme - First Task
+
+To kick things off, here's your first task:
+
+Create a GitHub Account (if you don’t already have one):
+Go to GitHub and sign up for an account.
+Create a Public Repository
+Once you’ve signed up, create a public repository with the following name format:
+"Your Name-Buildables-Fellowship-2025" (replace "Your Name" with your actual name).
+Upload Your Assignments:
+All your weekly assignments need to be uploaded to this repository. I’ll check them there, so it’s important to keep everything updated!
+
+Google Sheets:
+After creating your repo, share the link to your GitHub repo with me in the attached Google Sheets. This will allow me to track your progress and give you feedback.
+https://docs.google.com/spreadsheets/d/1f1317o5as92whyjbggm3homENIRubZ7TtyQw0ky4CrM/edit?usp=sharing
+
+Important: I’ll also leave my remarks and feedback on the Google Sheets, so keep an eye on it for suggestions and areas to improve.
