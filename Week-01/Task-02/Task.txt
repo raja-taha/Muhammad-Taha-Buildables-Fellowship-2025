@@ -1,0 +1,30 @@
+Resources to Guide Your Learning:
+
+Google ML Crash Course: https://developers.google.com/machine-learning/crash-course
+Great for foundational ML concepts and intuitive examples.
+
+Supervised vs Unsupervised Learning: https://www.datacamp.com/community/tutorials/supervised-unsupervised-learning-python
+A detailed article explaining the concepts in depth.
+
+Scikit-learn Linear Model Examples: https://scikit-learn.org/1.5/auto_examples/linear_model/plot_ols.html
+Detailed example for Linear Regression using Scikit-learn.
+
+Real Python - Linear Regression: https://realpython.com/linear-regression-in-python/
+A Python-centric approach to understand Linear Regression.
+
+Logistic Regression: https://www.datacamp.com/community/tutorials/logistic-regression-python
+Comprehensive guide on Logistic Regression in Python.
+
+K-Nearest Neighbors Tutorial: https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
+A beginner-friendly tutorial for understanding and implementing KNN.
+
+Decision Trees with Scikit-learn: https://scikit-learn.org/stable/modules/tree.html
+Official documentation for decision trees.
+
+https://www.youtube.com/watch?v=aL21Y-u0SRs
+https://www.youtube.com/watch?v=Nz73vXn5afE
+https://www.youtube.com/watch?v=yi7KsXtaOCo
+
+https://github.com/MannanUlHaq/FAST-DataScience-Insights/tree/main/Third%20Semester/Introduction%20to%20Data%20Science%20(IDS)/Notes ( this is good source for understanding machine learning basics and every one is encouraged to explore this)
+
+You are free to use whatever resources you want to use main goal is to learn and implement machine learning concepts

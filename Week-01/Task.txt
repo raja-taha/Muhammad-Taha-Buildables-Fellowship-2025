@@ -1,0 +1,41 @@
+Week 1: Introduction to Machine Learning Algorithms
+
+This week, we will dive into the core concepts of Machine Learning (ML), understanding the theory, mathematical foundation, and practical implementations of key algorithms. You’ll learn both Supervised and Unsupervised Learning and focus on implementing algorithms like Linear Regression, Logistic Regression, K-Nearest Neighbors (KNN), and Decision Trees. By the end of the week, you'll not only grasp how these algorithms work, but also understand when and why to use them.
+
+Key Learning Goals:
+
+Theory: You will learn the mathematical concepts behind each algorithm, such as loss functions, optimization techniques, and how the models make predictions.
+Implementation: You’ll implement these algorithms using Scikit-learn and practice coding them, ensuring you understand the functionality behind every line of code. You won't need to memorize the code, but you'll need to understand its purpose, what it does, and how it fits into the model-building process.
+
+Topics to Cover:
+
+1. Supervised vs. Unsupervised Learning
+Understand the key differences between supervised and unsupervised learning.
+Learn how data labeling affects the choice of algorithm and how it impacts training models.
+
+2. Linear Regression
+Learn the basics of Linear Regression, focusing on:
+How the algorithm predicts continuous outcomes.
+The loss function used to minimize prediction errors.
+Optimization techniques like Gradient Descent used for training the model.
+When and why to use Linear Regression in real-world problems.
+
+3. Logistic Regression
+Introduction to Classification Problems.
+Learn how Logistic Regression works for binary classification and predicting categorical outcomes.
+Understand the sigmoid function, how it transforms linear output to probabilities, and how it’s used for classification.
+Learn how to evaluate the model using accuracy, precision, recall, etc.
+
+4. K-Nearest Neighbors (KNN)
+Understand the KNN algorithm’s basic workings:
+How it classifies data points based on their proximity to other data points.
+The role of distance metrics (like Euclidean distance) in classification.
+When to use KNN and its strengths and weaknesses.
+Tuning K (the number of neighbors) to optimize model performance.
+
+5. Decision Trees
+Learn the structure and working of Decision Trees:
+How decision trees make predictions by splitting data based on feature values.
+The concept of overfitting and how it can be managed.
+Pruning the tree to improve its generalizability.
+When to use decision trees and how to interpret their outputs.
