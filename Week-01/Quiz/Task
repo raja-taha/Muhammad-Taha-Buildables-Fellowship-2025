@@ -1,0 +1,43 @@
+Dont Forget to cover these topics for learning and preparation of the quiz.
+
+Linear Regression:
+
+Mathematical foundations (MSE, gradient descent)
+Practical applications (house prices, sales forecasting)
+When to use and key assumptions
+SSE (Sum of Squared Errors):
+SST (Total Sum of Squares)
+SSR (Sum of Squares Regression)
+R² (R-Squared)
+R (Correlation Coefficient):
+Line of Best Fit: How regression finds optimal line
+
+Logistic Regression:
+
+Sigmoid function and probability interpretation
+Critical evaluation metrics (precision, recall, accuracy)
+Binary classification applications
+Multi class applications
+
+K-Nearest Neighbors (KNN):
+
+Algorithm mechanics and distance metrics
+K parameter tuning and computational complexity
+Strengths, weaknesses, and feature scaling importance
+
+Decision Trees:
+
+Tree structure and splitting criteria
+Overfitting, pruning, and interpretability
+When to choose trees over other algorithms
+What is Entropy ?
+What is Gini Impurity ?
+Information Gain Formula: Complete calculation process
+Step-by-step tree construction process
+Manual tree building methodology
+
+Loss Functions Comprehensive Coverage:
+
+Regression losses: MSE, MAE, RMSE with formulas
+Classification losses: Cross-entropy, Hinge loss, 0-1 loss
+When to use each loss function
