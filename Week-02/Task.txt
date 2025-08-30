@@ -1,0 +1,15 @@
+Week 2: Data Preprocessing Techniques & Feature Transformation
+
+Importance of Clean Data in Model Performance
+Data Cleaning: Handling Missing Values and Outliers
+Normalization & Standardization Techniques: Min-Max Scaling & Z-Score Standardization
+Data Transformation: Log and Box-Cox Transformations
+Handling Categorical Data: One-Hot Encoding & Label Encoding
+Feature Scaling: The Role of Scaling in KNN, SVM, and Other Algorithms
+Advanced Imputation Techniques for Missing Data
+Dealing with Outliers: Detection and Handling Methods
+Feature Engineering: Creating and Selecting the Best Features
+Target Encoding for Categorical Variables
+Dealing with Imbalanced Datasets: Resampling Techniques
+
+learn and understand these concepts both theoretically and practically then implement these techniques on assignment 1 and retrain your models and compare the evaluation metrics for before these techniques and after.
